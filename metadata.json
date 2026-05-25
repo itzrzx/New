@@ -1,0 +1,6 @@
+{
+  "name": "Attention & Authenticity Intelligence System",
+  "description": "A psychological feedback and attention analysis system that evaluates why content works, scores visual realism/authenticity, identifies retention hazards, and provides cinematic fixes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
